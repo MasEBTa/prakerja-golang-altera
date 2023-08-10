@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-08-10T16:29:49.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xK_TCA-MYQCiUk352BUy" version="21.6.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="huFag56Xi2HHyWhEMchw-0" value="&lt;h1&gt;Trapezoid/Trapesium&lt;/h1&gt;&lt;p&gt;Trapezoid adalah suatu bentuk geometri dua dimensi yang memiliki empat sisi, dua di antaranya sejajar, tetapi tidak sama panjang. Trapezoid sering disebut juga trapesium di beberapa wilayah, terutama di luar Amerika Serikat. Di Amerika Serikat, istilah &quot;trapezoid&quot; lebih umum digunakan.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="10" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/jpeg,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;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" width="181" height="105.51" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-2" value="&lt;h1&gt;Luas Trapezoid&lt;/h1&gt;&lt;div&gt;Luas = (1/2) × (jumlah panjang sisi sejajar) × tinggi&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="130" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="huFag56Xi2HHyWhEMchw-3" target="huFag56Xi2HHyWhEMchw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-3" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="huFag56Xi2HHyWhEMchw-4" target="huFag56Xi2HHyWhEMchw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-4" value="a = sisi atap&lt;br&gt;b = sisi bawah&lt;br&gt;t = tinggi" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="huFag56Xi2HHyWhEMchw-6" target="huFag56Xi2HHyWhEMchw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-6" value="input : a, b, t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="huFag56Xi2HHyWhEMchw-8" target="huFag56Xi2HHyWhEMchw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-8" value="hasil = 1/2 * (a+b) * t" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="huFag56Xi2HHyWhEMchw-10" target="huFag56Xi2HHyWhEMchw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-10" value="output : hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="399" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="huFag56Xi2HHyWhEMchw-12" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="419.5" y="640" width="79" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
