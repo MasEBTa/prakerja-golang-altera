@@ -1,1 +1,4 @@
-main branch
+Tugas Flowchart :
+1. Bilangan Prima : https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=flowchard-bilangan-prima.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FMasEBTa%2Fprakerja-golang-altera%2Fvitur-pertemuan1%2Fflowchard-bilangan-prima.drawio
+2. bilangan kelipatan 7 : https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=flowchart-bilangan-kelipatan-7.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FMasEBTa%2Fprakerja-golang-altera%2Fvitur-pertemuan1%2Fflowchart-bilangan-kelipatan-7.drawio
+3. luas trapezoid : https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=flowchart-luas-trapezoid.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FMasEBTa%2Fprakerja-golang-altera%2Fvitur-pertemuan1%2Fflowchart-luas-trapezoid.drawio
